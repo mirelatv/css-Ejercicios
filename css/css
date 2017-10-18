@@ -1,0 +1,72 @@
+div.orange {
+
+  margin : 3vh ;
+  background-color:    gold;
+   color: rgb(9,1,5);
+   padding: 10vh ;
+   text-align: left;
+  }
+  div.frase {
+  margin : 3vh ;
+  background-color: rgb(9, 1, 5);
+  color: rgb(245, 241, 246);
+    padding: 10vh ;
+  }
+  .parte2 .orange {
+width: 25vh;
+height: 15vh;
+  margin : 1vh ;
+    background-color:  gold;
+  color:  rgb(9, 1, 5);
+  padding:10vh ;
+  text-align: center;
+  }
+  .parte2 .frase {
+    width: 25vh;
+    height: 15vh;
+    margin : 1vh ;
+    background-color: rgb(9, 1, 5);
+    color: rgb(245, 241, 246);
+    padding:10vh ;
+    text-align-last: center;
+
+    }
+
+  .parte3 .orange {
+  width: 25vh;
+  height: 15vh;
+  margin : 5vh ;
+  background-color:   gold;
+  color: rgb(9, 1, 5);
+  padding : 10vh ;
+  display: inline-block;
+  text-align: center;
+  }
+  .parte3 .frase {
+    width: 25vh;
+    height: 15vh;
+    margin : 5vh ;
+    background-color: rgb(9, 1, 5);
+    color: rgb(245, 241, 246);
+    padding:10vh ;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .parte4 .orange {
+
+  margin : 10px;
+  background-color:    gold;
+  color: rgb(9, 1, 5);
+  padding:10px ;
+  display: inline-block;
+
+  }
+  .parte4 .frase {
+
+    margin : 10px;
+    background-color: rgb(9, 1, 5);
+    color: rgb(245, 241, 246);
+    padding:10px ;
+    display: inline-block;
+  }
